@@ -1,12 +1,15 @@
 ![MasterHead](https://media.cntraveller.com/photos/611be9e3d5b6f5a4a3def392/16:9/w_2560%2Cc_limit/Mountain-view-over-city-Edinburgh-scotland-conde-nast-traveller-28july17-iStock.jpg)
-<h1 align="center">Hi, I'm Emilia Agasi</h1>
-<h3 align="center">A doctoral researcher at the School of Informatics, The University of Edinburgh. I am part of the new CDT in AI for Biomedical Innovation and curious to apply data-driven solutions in personalised medcine, drug design and the uncovering of patterns in health & disease.</h3>
+<h1 align="center">Hi, I'm Emilia</h1>
+<h3 align="center">A PhD candidate at the AI for Biomedical Innovation CDT, based at The University of Edinburgh.
+  I am curious to apply data-driven solutions in personalised medcine, drug design and the uncovering of patterns in health & disease.</h3>
 
-- 🌱 I’m currently learning **Network biology, multimodal data integration**
+- 🌱 I’m currently learning **Network biology, multimodal data integration and precision oncology**
 
 - 👯 I’m looking to collaborate on **Any projects!**
 
 - 🤝 I’m looking for help with **Good coding practice**
+
+- 🌷 If I’m not in the office, I’m busy doing: **Cold water swimming, cycling or reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
